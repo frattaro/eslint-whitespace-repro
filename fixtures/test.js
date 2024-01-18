@@ -1,0 +1,1 @@
+export const value = `BZD 28,524.25`;
